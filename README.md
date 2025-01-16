@@ -5,6 +5,7 @@ This is a Tic-Tac-Toe game, where a player plays against an AI (bot). The bot us
 
 ## What I learned
 - **MiniMax** Algorithm
+- Recursion
 - Basic **Python**
 
 ## How To Play
